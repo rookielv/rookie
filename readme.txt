@@ -1,4 +1,8 @@
 Git is a distributed version control system
 Git is a free software distributed under the GPL
 Git has a mutable index calld stage
+<<<<<<< HEAD
 Creating a new branch is quickly
+=======
+
+>>>>>>> dev
